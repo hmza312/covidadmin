@@ -2,11 +2,6 @@
   "name": "adminreact",
   "version": "0.1.0",
   "private": true,
-  
-  "engines": {
-    "node": "12.13.0",
-    "npm": "6.14.4"
-  },
   "dependencies": {
     "@material-ui/core": "^4.9.13",
     "@material-ui/icons": "^4.9.1",
@@ -15,12 +10,7 @@
     "@testing-library/user-event": "^7.2.1",
     "antd": "^4.2.0",
     "axios": "^0.19.2",
-    "babel-node": "^0.0.1-security",
     "clsx": "^1.1.0",
-    "firebase": "^7.14.4",
-    "gh-pages": "^2.2.0",
-    "git": "^0.1.5",
-    "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
